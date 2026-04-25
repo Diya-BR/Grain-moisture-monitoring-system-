@@ -198,10 +198,4 @@ This project is developed as part of the MPCA (Microcontroller and Embedded Syst
 
 ---
 
-## Contact & Support
-
-For questions or technical support, please reach out to the project team members listed above.
-
----
-
 *Last Updated: 2026*

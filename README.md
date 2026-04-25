@@ -194,7 +194,7 @@ END
 
 ## License
 
-This project is developed as part of the MPCA (Microcontroller and Embedded Systems) course.
+This project is developed as part of the MPCA (Microprocessor and Computer architecture) course.
 
 ---
 
